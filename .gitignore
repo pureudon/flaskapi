@@ -1,0 +1,9 @@
+*.pyc
+.idea/
+__pycache__/
+*.db
+.DS_Store
+venv
+.vscode/
+log/emperor.log
+log/uwsgi.log
